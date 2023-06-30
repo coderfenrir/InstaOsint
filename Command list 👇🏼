@@ -1,0 +1,7 @@
+apt update
+apt upgrade
+git clone https://github.com/coderfenrir/instaosint
+cd instaosint
+ls 
+pip install -r gereksinimler.txt
+python İnstaOsint.py
